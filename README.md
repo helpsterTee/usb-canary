@@ -4,8 +4,8 @@
 
 USB Canary is a Linux and OSX tool that uses psutil to monitor USB devices
 either around the clock, or just while your computer is locked. It can
-be configured to send you an SMS via the Twilio API, or notify a Slack
-channel with it's inbuilt Slack bot.
+be configured to send you an SMS via the Twilio API, notify a Slack
+channel with it's inbuilt Slack bot, or send a push message through Pushover.
 
 ## Getting Started
 
